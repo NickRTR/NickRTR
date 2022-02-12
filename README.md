@@ -2,7 +2,7 @@
 
 I'm a self thaught software engineer at the age of 16 years, located in Germany. I develop Web Apps and Pages with Sveltekit.
 
-[![NickRTR GitHub stats](https://github-readme-stats.vercel.app/api?username=nickrtr&show_icons=true&theme=tokyonight)](https://github.com/nickrtr)
+<img src="https://github-readme-stats.vercel.app/api?username=nickrtr&show_icons=true&theme=tokyonight">
 
 ## Me
 <a href="https://twitter.com/nickrtrrtr" target="_blank"><img src="https://img.shields.io/twitter/follow/nickrtrrtr?color=%231DA1F2&label=twitter&logo=twitter&style=for-the-badge"></a>
