@@ -7,6 +7,12 @@ I'm a self thaught software engineer at the age of 16 years, located in Germany.
 ## Me
 <a href="https://twitter.com/nickrtrrtr" target="_blank"><img src="https://img.shields.io/twitter/follow/nickrtrrtr?color=%231DA1F2&label=twitter&logo=twitter&style=for-the-badge"></a>
 
+## Connect with me:
+<a href="https://twitter.com/nickrtrrtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nickrtrrtr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17878912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17878912" height="30" width="40" /></a>
+<a href="https://dribbble.com/nickrtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nickrtr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nickrtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nickrtr" height="30" width="40" /></a>
+
 ## Skills / Experience
 
 <span>
