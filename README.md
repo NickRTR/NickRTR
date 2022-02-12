@@ -14,7 +14,7 @@ I'm a self thaught software engineer at the age of 16 years, located in Germany.
 <a href="https://dribbble.com/nickrtr" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 <a href="https://nickrtrrtr.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="http://example.com/" target="blank">Hello, world!</a>
 
 ## ⚡ Skills
 ---
