@@ -48,4 +48,7 @@ I'm a self thaught software engineer at the age of 16 years, located in Germany.
 
 ## 📅 Coding Stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
