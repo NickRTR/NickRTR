@@ -5,6 +5,12 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickRTR&theme=tokyonight&fire=red&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
+## 🚀 Projects
+
+- https://www.mikki.gq/
+- https://weatherwatch.vercel.app/
+- https://schoppy.vercel.app/login
+
 ## 💬 Connect with me:
 
 <a href="https://twitter.com/nickrtrrtr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
