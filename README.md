@@ -1,6 +1,7 @@
 ## 👋 Hi there, I’m Nick Reutlinger
 
-I'm a self thaught software engineer at the age of 16 years, located in Germany.
+I'm a self thaught software engineer at the age of 16 years, located in Germany.  
+For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additionally I'm interested in anything that has to do with tech.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickRTR&theme=tokyonight&fire=red&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
