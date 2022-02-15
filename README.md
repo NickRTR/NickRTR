@@ -56,6 +56,8 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 ## 📅 Coding Stats
 <!--START_SECTION:waka-->
 ```text
+Total: 6 hrs 49 mins
+
 Svelte       2 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.53 % 
 JavaScript   2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
 Markdown     1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 % 
