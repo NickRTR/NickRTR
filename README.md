@@ -60,7 +60,7 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 <!--START_SECTION:waka-->
 
 ```text
-Other        23 hrs 25 mins  █████████████████░░░░░░░░   68.22 %
+Other        24 hrs 12 mins  ████████████████████░░░░░   80.61 %
 ```
 
 <!--END_SECTION:waka-->
