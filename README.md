@@ -5,24 +5,23 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickRTR&theme=tokyonight&fire=red&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
-## 🚀 Projects
+## 🚀 Projekte
 
-[My new Portfolio](https://nickreutlinger.vercel.app/)
-
+- [Portfolio](https://nickreutlinger.vercel.app/)
 - https://www.mikki.gq
 - https://weatherwatch.vercel.app
 - https://schoppy.vercel.app
 
 ## 💬 Connect with me:
 
-<a href="https://twitter.com/nickrtrrtr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://github.com/NickRTR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nick-reutlinger-9a89ab236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/17878912/nickrtr" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCD2jbbbHlsUa8FuX4nWeuzw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.twitch.tv/nickrtr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://dribbble.com/nickrtr" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-<a href="https://nickrtrrtr.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+<a href="https://twitter.com/nickrtrrtr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/NickRTR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nick-reutlinger-9a89ab236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/17878912/nickrtr"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCD2jbbbHlsUa8FuX4nWeuzw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.twitch.tv/nickrtr"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://dribbble.com/nickrtr"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+<a href="https://nickrtrrtr.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 
 ## ⚡ Skills
 ---
