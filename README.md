@@ -7,9 +7,11 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 
 ## 🚀 Projects
 
-- https://www.mikki.gq/
-- https://weatherwatch.vercel.app/
-- https://schoppy.vercel.app/login
+[My new Portfolio](https://nickreutlinger.vercel.app/)
+
+- https://www.mikki.gq
+- https://weatherwatch.vercel.app
+- https://schoppy.vercel.app
 
 ## 💬 Connect with me:
 
