@@ -5,10 +5,10 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickRTR&theme=tokyonight&fire=red&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
-## 🚀 Projekte
+## 🚀 Projects
 
 - [Portfolio](https://nickreutlinger.vercel.app/)
-- https://www.mikki.gq
+- https://profilebadges.vercel.app/
 - https://weatherwatch.vercel.app
 - https://schoppy.vercel.app
 
