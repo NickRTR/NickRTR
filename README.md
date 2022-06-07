@@ -61,6 +61,7 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
   ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=FFFFFF)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
   ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=Fedora&logoColor=FFFFFF)
+  ![kde](https://img.shields.io/badge/kde-1D99F3?style=for-the-badge&logo=kde&logoColor=FFFFFF)
 #### Office
   ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=FFFFFF)
   <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=FFFFFF" alt="Microsoft Office">
