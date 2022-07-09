@@ -79,12 +79,12 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 %
-Svelte       5 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
-Python       2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Markdown     1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JavaScript   6 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   39.18 %
+Svelte       6 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   38.50 %
+Python       1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown     1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Bash         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
