@@ -6,6 +6,7 @@ For the most part, I'm developing Web Apps with Sveltekit and Javascript. Additi
 ## 🚀 Projects
 
 - [Portfolio](https://nickreutlinger.vercel.app/)
+- [Blog](https://blog.nickreutlinger.de/)
 - https://profilebadges.vercel.app/
 - https://weatherwatch.vercel.app
 - https://schoppy.vercel.app
