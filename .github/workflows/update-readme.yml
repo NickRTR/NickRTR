@@ -1,4 +1,4 @@
-- name: waka-readme-stats
+name: waka-readme-stats
   # You may pin to the exact commit or the version.
   # uses: miermontoto/waka-readme-stats@22fee3dcba60bc3f27b9ca3ddc7bbf3fd998ec68
   uses: miermontoto/waka-readme-stats@v5
