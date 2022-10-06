@@ -73,6 +73,7 @@ For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additi
 ## 📅 Coding Stats (last 7 days)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML   1 hr 14 mins    ████████████████████████▒   97.90 % 
+Text   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
