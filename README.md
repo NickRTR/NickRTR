@@ -65,6 +65,7 @@ For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additi
 #### Further
   ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
   ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+  ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=FFFFFF)
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=FFFFFF)
   ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=FFFFFF)
