@@ -52,6 +52,7 @@ For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additi
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=FFFFFF)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
+  ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 #### Operating system
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)
   ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
@@ -66,7 +67,6 @@ For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additi
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF)
   ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=FFFFFF)
 #### Further
-  ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
   ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
   ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=FFFFFF)
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
