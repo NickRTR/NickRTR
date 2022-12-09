@@ -74,6 +74,6 @@ For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additi
   ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=FFFFFF)
 
 ---
-<!--## 📅 Coding Stats (last 7 days)-->
+## 📅 Coding Stats (last 7 days)
 <!--WakaTime-Start-->
 <!--WakaTime-End-->
