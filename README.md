@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Nick Reutlinger
 
 I'm a self-taught software engineer at the age of 16, located in Germany.  
-I develop Web Applications with SvelteKit and Javascript as well as Go(lang) applications. Additionally, I'm interested in anything that has to do with tech.
+I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go**(lang) applications. Additionally, I'm interested in anything that has to do with tech.
 
 ## 🚀 Featured Projects
 
