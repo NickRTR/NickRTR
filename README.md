@@ -1,15 +1,20 @@
 ## 👋 Hi there, I’m Nick Reutlinger
 
 I'm a self-taught software engineer at the age of 16, located in Germany.  
-For the most part, I'm developing Web Apps with SvelteKit and Javascript. Additionally, I'm interested in anything that has to do with tech.
+I develop Web Applications with SvelteKit and Javascript as well as Go(lang) applications. Additionally, I'm interested in anything that has to do with tech.
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [Portfolio](https://nickreutlinger.vercel.app/)
-- [Blog](https://blog.nickreutlinger.de/)
-- https://profilebadges.vercel.app/
-- https://weatherwatch.vercel.app
-- https://schoppy.vercel.app
+### SvelteKit
+
+- [Portfolio](https://nickreutlinger.de)
+- [Syntype](https://syntype.vercel.app)
+- [WeatherWatch](https://weatherwatch.vercel.app/)
+
+### Go
+
+- [WakaTime-Readme](https://github.com/NickRTR/WakaTime-Readme)
+- [GitHub-Automation](https://github.com/NickRTR/GitHub-Automation)
 
 ## 💬 Socials:
 
