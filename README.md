@@ -36,7 +36,6 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF)
 <img src="https://img.shields.io/badge/Godot Engine-478CBF?style=for-the-badge&logo=Godot Engine&logoColor=FFFFFF" alt="Godot Engine">
-<img src="https://img.shields.io/badge/Godot Engine-478CBF?style=for-the-badge&logo=Godot Engine&logoColor=FFFFFF" alt="Godot Engine">
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF)
 
 ### Frameworks
