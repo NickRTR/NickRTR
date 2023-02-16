@@ -104,5 +104,5 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ## 📅 Coding Stats (last 7 days)
 
 <!--WakaTime-Start-->
-<pre>Svelte                   0 secs 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 100.00 %</br></pre>
+<pre></pre>
 <!--WakaTime-End-->
