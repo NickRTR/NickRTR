@@ -104,5 +104,5 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ## 📅 Coding Stats (last 7 days)
 
 <!--WakaTime-Start-->
-<pre></pre>
+<pre>HTML               1 hr 12 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 99.68 %</br>Other                    0 secs ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0.32 %</br></pre>
 <!--WakaTime-End-->
