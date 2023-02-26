@@ -12,6 +12,7 @@ The software/apps I use to get things done 🚀
 - Microsoft To Do
 - 1Password
 - Microsoft Office
+- Obsidian
 
 ## Development
 
