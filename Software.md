@@ -10,8 +10,8 @@ The software/apps I use to get things done 🚀
 ## Productivity
 
 - Microsoft To Do
-- 1Password
 - Microsoft Office
+- 1Password
 - Obsidian
 
 ## Development
@@ -24,6 +24,7 @@ The software/apps I use to get things done 🚀
 ## Entertainment
 
 - Spotify
+- Forza Horizon 5
 
 ## Connectivity
 
