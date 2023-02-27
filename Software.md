@@ -13,6 +13,7 @@ The software/apps I use to get things done 🚀
 - Microsoft Office
 - 1Password
 - Obsidian
+- Adobe Acrobat Reader
 
 ## Development
 
