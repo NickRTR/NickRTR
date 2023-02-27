@@ -1,6 +1,6 @@
 # Software
 
-The software/apps I use to get things done 🚀
+The software/apps I use to get things done (and to enjoy) 🚀
 
 ## Browser
 
