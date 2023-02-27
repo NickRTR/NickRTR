@@ -27,7 +27,8 @@ The software/apps I use to get things done (and to enjoy) 🚀
 - Spotify
 - Forza Horizon 5
 
-## Connectivity
+## Communication
 
 - Discord
 - Mailspring
+- WhatsApp
