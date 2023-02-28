@@ -32,3 +32,4 @@ The software/apps I use to get things done (and to enjoy) 🚀
 - Discord
 - Mailspring
 - WhatsApp
+- Intel Unison
