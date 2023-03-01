@@ -21,6 +21,7 @@ The software/apps I use to get things done (and to enjoy) 🚀
 - Git Version 2.39.2
 - Node.js Version 18.14.2
 - npm Version 9.5
+- Eclipse
 
 ## Entertainment
 
