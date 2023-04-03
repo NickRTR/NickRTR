@@ -8,7 +8,7 @@ on:
 env:
   HYGRAPH_API_URL: ${{ secrets.HYGRAPH_API_URL }}
   HYGRAPH_API_TOKEN: ${{ secrets.HYGRAPH_API_TOKEN }}
-  GH_TOKEN: ${{ secrets.GH_TOKEN  }}
+  GH_TOKEN: ${{ secrets.SKILL_ACTION_GH_TOKEN  }}
 
 jobs:
   WakaTime-README:
