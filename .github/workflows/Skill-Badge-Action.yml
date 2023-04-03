@@ -11,7 +11,7 @@ env:
   GH_TOKEN: ${{ secrets.SKILL_ACTION_GH_TOKEN  }}
 
 jobs:
-  WakaTime-README:
+  Skill-Badge-Action:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
