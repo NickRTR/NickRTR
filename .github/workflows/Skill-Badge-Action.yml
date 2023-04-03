@@ -1,0 +1,18 @@
+name: Skill Badge Action
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+env:
+  HYGRAPH_API_URL: ${{ secrets.HYGRAPH_API_URL }}
+  HYGRAPH_API_TOKEN: ${{ secrets.HYGRAPH_API_TOKEN }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN  }}
+
+jobs:
+  WakaTime-README:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: NickRTR/Skill-Badge-Action@v1.0
