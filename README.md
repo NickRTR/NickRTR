@@ -3,9 +3,8 @@
 I'm a self-taught software engineer at the age of 16, located in Germany.  
 I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go**(lang) applications. Additionally, I'm interested in anything that has to do with tech.
 
-
 #### My coding teammate:
-<img width="200px" alt="Gopher" src="https://user-images.githubusercontent.com/95316598/214095172-ebc3cab6-df43-4895-9213-68b909648214.jpeg">
+<img width="200px" alt="Gopher" src="https://user-images.githubusercontent.com/95316598/232315469-a765911a-f790-4a68-a4f9-d445dd8e4179.jpg"><img width="200px" alt="Gopher in the snow" src="https://user-images.githubusercontent.com/95316598/232315472-e939b105-7c76-4ade-b22d-822fe78e20da.jpg">
 
 ## 🚀 Featured Projects
 
