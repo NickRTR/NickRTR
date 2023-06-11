@@ -62,5 +62,5 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ## 📅 Coding Stats
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>579 hrs 54 mins</br><strong>Timespan:           </strong>483 days</br><strong>Daily average:      </strong>1 hr(s) 11 min(s)</pre>
+<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>579 hrs 54 mins</br><strong>Timespan:           </strong>484 days</br><strong>Daily average:      </strong>1 hr(s) 11 min(s)</pre>
 <!--WakaTime-End-->
