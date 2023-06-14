@@ -62,5 +62,5 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ## 📅 Coding Stats
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2><h2>All Time</h2><strong>Total Time Coded:   </strong>579 hrs 54 mins</br><strong>Timespan:           </strong>486 days</br><strong>Daily average:      </strong>1 hr(s) 11 min(s)</pre>
+<pre><h2>Last 7 Days</h2>JavaScript               7 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜  69.84 %</br>Vue.js                    1 min 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  16.15 %</br>JSON                      1 min 🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  12.04 %</br>Other                    0 secs ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.98 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>579 hrs 54 mins</br><strong>Timespan:           </strong>487 days</br><strong>Daily average:      </strong>1 hr(s) 11 min(s)</pre>
 <!--WakaTime-End-->
