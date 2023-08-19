@@ -59,5 +59,5 @@ I develop Web Applications with **SvelteKit** and **Javascript** as well as **Go
 ## 📅 Coding Stats
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>No coding activity found for the last 7 days ⛱️.<h2>All Time</h2><strong>Total Time Coded:   </strong>640 hrs 10 mins</br><strong>Timespan:           </strong>552 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Go                      19 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  61.58 %</br>Markdown                12 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  38.17 %</br>Other                    0 secs ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.25 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>639 hrs 48 mins</br><strong>Timespan:           </strong>553 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
 <!--WakaTime-End-->
