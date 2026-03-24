@@ -59,5 +59,5 @@ I develop web applications with **SvelteKit**, **Nuxt**, **Laravel** and **Javas
 ## 📅 Coding Stats
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>PHP                8 hrs 4 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  40.65 %</br>Blade Template      6 hrs 1 min 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  30.37 %</br>CSS                 2 hrs 1 min 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  10.20 %</br>JSON               1 hr 55 mins 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   9.70 %</br>Bash                    53 mins 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.49 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,939 hrs 26 mins</br><strong>Timespan:           </strong>1500 days</br><strong>Daily average:      </strong>1 hr(s) 17 min(s)</pre>
+<pre><h2>Last 7 Days</h2>PHP               8 hrs 48 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  42.39 %</br>Blade Template      6 hrs 1 min 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  29.03 %</br>CSS                2 hrs 4 mins 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   9.95 %</br>JSON                2 hrs 1 min 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   9.76 %</br>Bash                    53 mins 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.29 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>1,939 hrs 26 mins</br><strong>Timespan:           </strong>1501 days</br><strong>Daily average:      </strong>1 hr(s) 17 min(s)</pre>
 <!--WakaTime-End-->
