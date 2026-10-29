@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Nick Reutlinger
 
-I'm a self-taught software engineer at the age of 19, based in Germany.  
+I'm a self-taught software engineer at the age of 20, based in Germany.  
 I develop web applications with **SvelteKit**, **Nuxt**, **Laravel** and **Javascript** as well as **Go**(lang) applications. Additionally, I'm interested in everything that has to do with technology.
 
 ## 🚀 Featured Projects
@@ -53,11 +53,3 @@ I develop web applications with **SvelteKit**, **Nuxt**, **Laravel** and **Javas
 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="STMicroelectronics" src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=FFFFFF"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=FFFFFF"/> 
 <!--Skill-Badge-Action-End-->
-
----
-
-## 📅 Coding Stats
-
-<!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>TeX                1 hr 33 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  38.78 %</br>JavaScript                 1 hr 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  24.88 %</br>JSON                    20 mins 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.58 %</br>Bash                    18 mins 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.62 %</br>Svelte                  15 mins 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   6.22 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>2,109 hrs 48 mins</br><strong>Timespan:           </strong>1720 days</br><strong>Daily average:      </strong>1 hr(s) 13 min(s)</pre>
-<!--WakaTime-End-->
